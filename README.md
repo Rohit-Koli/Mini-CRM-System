@@ -90,7 +90,7 @@ Password: admin123
 
    ```bash
    git clone https://github.com/Rohit-Koli/Mini-CRM-System.git
-   cd mini-crm
+   cd Mini-CRM-System
    ```
 
 2. **Setup MySQL Database**
@@ -126,26 +126,6 @@ CREATE TABLE `clients` (
   `notes` TEXT
 );
 ```
-
----
-
-## 📝 Optional Improvements
-
-* Add registration
-* Pagination and sorting
-* Export to CSV/PDF
-* Add admin panel with more controls
-
----
-
-## 📌 Notes
-
-* This is a learning project, not production-ready
-* Built to demonstrate clean backend logic using Core PHP and MySQL
-* UI kept simple with Bootstrap 5
-
----
-
 ## 📄 License
 
 This project is open-source and free to use for learning purposes.
