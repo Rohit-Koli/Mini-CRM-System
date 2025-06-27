@@ -89,7 +89,7 @@ Password: admin123
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/mini-crm.git
+   git clone https://github.com/Rohit-Koli/Mini-CRM-System.git
    cd mini-crm
    ```
 
